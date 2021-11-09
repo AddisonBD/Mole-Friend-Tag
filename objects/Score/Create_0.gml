@@ -1,0 +1,1 @@
+global.moleCount = 25;
